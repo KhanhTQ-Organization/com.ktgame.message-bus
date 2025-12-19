@@ -1,6 +1,6 @@
 {
   "name": "com.ktgame.message-bus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "com.ktgame.message-bus",
   "description": "Messge bus",
   "unity": "2019.4",
