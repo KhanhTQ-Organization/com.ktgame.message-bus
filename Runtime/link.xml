@@ -1,0 +1,5 @@
+<linker>
+    <assembly fullname="com.ktgame.message-bus" ignoreIfMissing="1">
+        <namespace fullname="com.ktgame.message-bus" preserve="all"/>
+    </assembly>
+</linker>
