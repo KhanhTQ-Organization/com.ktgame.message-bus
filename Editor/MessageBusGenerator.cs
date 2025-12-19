@@ -76,7 +76,7 @@ namespace com.ktgame.message_bus.editor
             builder.Append("using System;").Append("\n");
             builder.Append("using UnityEngine;").Append("\n");
             builder.Append("using com.ktgame.unregister;").Append("\n");
-            builder.Append("using services.message_bus;").Append("\n");
+            builder.Append("using com.ktgame.message_bus;").Append("\n");
             
             var content = GenerateMessageExtensionsContent(out var namespaces);
             foreach (var ns in namespaces)
@@ -101,7 +101,7 @@ namespace com.ktgame.message_bus.editor
         {
             namespaces = new List<string>();
             var builder = new StringBuilder();
-            builder.Append("namespace message_bus").Append("\n");
+            builder.Append("namespace com.ktgame.message_bus").Append("\n");
             builder.Append("{").Append("\n");
             var assetPaths = AssetDatabase.GetAllAssetPaths();
             var messages = GetAllTypesImpInterface<IMessage>();
