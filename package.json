@@ -13,7 +13,7 @@
     "url": ""
   },
   "publishConfig": {
-    "registry": "http://3.25.208.95:4873"
+    "registry": "http://3.25.115.5:4873"
   },
   "_fingerprint": "12478dadb0b0ec88146900f513b88a9ca1a1001d"
 }
