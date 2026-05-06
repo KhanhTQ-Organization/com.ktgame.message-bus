@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/KhanhTQ-Organization/com.ktgame.message-bus/compare/v1.0.1...v1.0.2) (2026-05-06)
+
+
+### Bug Fixes
+
+* rl ([ea0cdfb](https://github.com/KhanhTQ-Organization/com.ktgame.message-bus/commit/ea0cdfbe8c64d2c276cc8196e204c5482df2d16d))
+
 ## [1.0.1](https://github.com/KhanhTQ-Organization/com.ktgame.message-bus/compare/v1.0.0...v1.0.1) (2025-12-19)
 
 
